@@ -1,5 +1,5 @@
 import java.util.*;
-public class PrimeNoRange {
+public class Prime8NoRange {
     public  static boolean isPrime(int n){
         // boolean isPrime=true;
         if(n<=1){
@@ -22,7 +22,7 @@ public class PrimeNoRange {
             }
            
         }
-            System.out.println();
+            //System.out.println();
     }
         
     

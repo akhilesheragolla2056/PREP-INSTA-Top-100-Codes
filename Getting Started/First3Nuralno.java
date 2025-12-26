@@ -1,6 +1,6 @@
 //Method 1: Using for Loop
 import java.util.Scanner;
-public class FirstNuralno {
+public class First3Nuralno {
     public static int firstNnaturalNo(int n){
       int  sum=0;
         for(int i=1; i<=n; i++){

@@ -36,7 +36,7 @@
 
 //Method 3: Using inbuilt max Function
 import java.util.*;
-public class GreatestofTwoNo{
+public class Greatest5ofTwoNo{
     public static  int greatestOfTwoNo(int a, int b){
         if(a==b){
             return 0;

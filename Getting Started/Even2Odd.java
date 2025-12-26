@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class EvenOdd {
+public class Even2Odd {
 
     public static void evenOdd(int n) {
         if (n % 2 == 0) {

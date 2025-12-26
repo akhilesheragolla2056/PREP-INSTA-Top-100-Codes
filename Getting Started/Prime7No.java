@@ -1,5 +1,5 @@
 import java.util.*;
-public class PrimeNo {
+public class Prime7No {
     public static boolean primeNo(int n){
       // boolean primeNo=true;
         if(n<=1){

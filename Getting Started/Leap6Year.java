@@ -22,7 +22,7 @@
 
 //Method 2: Using Ternary Operator
 import java.util.*;
-public class LeapYear{
+public class Leap6Year{
     public static String leapYear(int year){
         return (year%400==0 || (year%4==0 && year%100!=0)) ? "Its a leapYear : "+year : "Its not a leapYear : "+year;
     }

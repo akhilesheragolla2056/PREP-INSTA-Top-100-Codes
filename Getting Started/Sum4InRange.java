@@ -21,7 +21,7 @@
 // }
 //Method 2: Using the Sum of the Numbers in a Given Interval in Java
 import java.util.Scanner;
-public class SumInRange{
+public class Sum4InRange{
     public static int sumInRange(int a, int b){
         int sum=0;
         sum=b*(b+1)/2-a*(a+1)/2+a;

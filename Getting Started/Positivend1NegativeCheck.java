@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class PositivendNegativeCheck {
+public class Positivend1NegativeCheck {
     public static void postiveAndNegativeCheck(int n) {
 
         if (n > 0) {
